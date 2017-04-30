@@ -1,4 +1,4 @@
-# dataanalytics
+# Data Analytics
 Python Data Analytics Notebooks
 
 A selected sample of techniques used for Data Analytics purposes using Python libraries including:
